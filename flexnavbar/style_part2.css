@@ -1,0 +1,30 @@
+div {
+  display : flex;
+  background-color: #6495ED;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.b {
+  height: 50px;
+  width: 50px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  width: 1000px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  color: white;
+  margin-left: 100px;
+}
